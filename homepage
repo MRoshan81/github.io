@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Personal Web page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>  
+  <div style="background-color:gray; color:white; padding:20px;">
+  <img src="me.jpg" alt="That's me" style="width:100px;height:100px">  
+       <h1>About Me!</h1>
+       <p>My name is <span style="color:blue;font-weight:bold">Mohammad Roshan</span> 
+	   </br>I am 32 years old and currently live with my family in <span style="color:green;font-weight:bold">Sweden,Halmstad</span> </p>	   
+  </div>
+  
+  <section>
+	<a href="https://www.linkedin.com/profile/public-profile-settings?trk=prof-edit-edit-public_profile">
+	<img src="linkedin.jpg" style="width:90px;"/></a>
+	  <h4>Education</h4>
+	  <h4>Work Experience</h4>
+	  <h4>Projects</h4>
+	  <h4>Hobbies</h4>  
+  </section> 
+  
+  <footer>
+		Copyright @ M.Roshan
+  </footer>
+  
+  
+</body>
+</html>
+
